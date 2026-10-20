@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atmosphere</string>
+    <string name="live_weather_channel">Live Weather Status</string>
+    <string name="live_weather_channel_desc">Displays ongoing real-time weather and temperature in the notification bar</string>
+    <string name="severe_weather_channel">Severe Weather Alerts</string>
+    <string name="severe_weather_channel_desc">Real-time push notifications for severe storms and dangerous weather</string>
+</resources>

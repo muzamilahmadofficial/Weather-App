@@ -1,0 +1,6 @@
+{
+  "name": "Atmosphere",
+  "description": "Real-time weather forecast with automatic GPS location detection, hourly trends, 7-day daily forecasts, humidity levels, and wind speed updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

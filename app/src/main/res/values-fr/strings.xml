@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atmosphere</string>
+    <string name="live_weather_channel">Météo en direct</string>
+    <string name="live_weather_channel_desc">Affiche la météo en temps réel dans la barre de notifications</string>
+    <string name="severe_weather_channel">Alertes météo sévères</string>
+    <string name="severe_weather_channel_desc">Notifications d\'alertes météorologiques critiques en direct</string>
+</resources>

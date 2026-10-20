@@ -1,0 +1,47 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing Sun -->
+    <path
+        android:pathData="M64,36m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="50"
+                android:startY="22"
+                android:endX="78"
+                android:endY="50"
+                android:type="linear">
+                <item android:color="#FDE047" android:offset="0.0" />
+                <item android:color="#F59E0B" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- White Puffy Cloud -->
+    <path
+        android:pathData="M38,68 C33,68 28,64 28,58 C28,53 32,49 37,48.5 C38.5,41 45,36 53,36 C61,36 67.5,41 69,48 C70,47.5 71.5,47 73,47 C78,47 82,51 82,56 C82,56.5 82,57 81.8,57.5 C85,59 87,62 87,65.5 C87,70 83,73.5 78,73.5 L38,73.5 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="50"
+                android:startY="36"
+                android:endX="58"
+                android:endY="74"
+                android:type="linear">
+                <item android:color="#FFFFFF" android:offset="0.0" />
+                <item android:color="#E0F2FE" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Raindrops -->
+    <path
+        android:fillColor="#7DD3FC"
+        android:pathData="M43,78 C43,79.7 41.7,81 40,81 C38.3,81 37,79.7 37,78 C37,76.5 40,73.5 40,73.5 C40,73.5 43,76.5 43,78 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M56,80 C56,81.7 54.7,83 53,83 C51.3,83 50,81.7 50,80 C50,78.5 53,75.5 53,75.5 C53,75.5 56,78.5 56,80 Z" />
+    <path
+        android:fillColor="#7DD3FC"
+        android:pathData="M69,78 C69,79.7 67.7,81 66,81 C64.3,81 63,79.7 63,78 C63,76.5 66,73.5 66,73.5 C66,73.5 69,76.5 69,78 Z" />
+</vector>
